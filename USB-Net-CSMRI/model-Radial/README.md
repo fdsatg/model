@@ -1,0 +1,1 @@
+Download the pth files from [Radial](https://pan.baidu.com/s/1uIzmZ9y6H9TC2TEsfQz9XQ?pwd=1pi5) and place them in this folder.

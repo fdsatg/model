@@ -1,0 +1,1 @@
+Download the pth files from [Model](https://pan.baidu.com/s/1YtlxHySG3Qu4av1XvURQ0Q?pwd=ln2j) and place them in this folder.
