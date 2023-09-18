@@ -1,6 +1,6 @@
 ## USB-Net-ICS
 
-- [Model](https://pan.baidu.com/s/1YtlxHySG3Qu4av1XvURQ0Q?pwd=ln2j)
+- [Model](https://pan.baidu.com/s/1A2PmB2PzGZeJhmSL19_rlg?pwd=owur)
 
 Put the pth files in the folder "model".
 
@@ -25,8 +25,8 @@ python train.py --model=usbnet --data_path="" --eval_data_path="" --cs_ratio=10 
 ## USB-Net-CSMRI
 
 - Model
-1. [Cratesian](https://pan.baidu.com/s/1cBoOMFfGQyKPj3RpEuLqNw?pwd=d3qf)
-2. [Radial](https://pan.baidu.com/s/1uIzmZ9y6H9TC2TEsfQz9XQ?pwd=1pi5)
+1. [Cratesian](https://pan.baidu.com/s/1syIucEFo92_1yLD3OdwzHg?pwd=tuqu)
+2. [Radial](https://pan.baidu.com/s/1tk7xiu5-WTMj-cT94cw2Vg?pwd=nbhr)
 
 Put the pth files in the folder "model-Cartesian" or "model-Radial".
 
