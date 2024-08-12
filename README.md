@@ -1,8 +1,5 @@
 ## USB-Net-ICS
 
-- Model
-[[BaiduYun](https://pan.baidu.com/s/1A2PmB2PzGZeJhmSL19_rlg?pwd=owur)]/[[GoogleDrive](https://drive.google.com/drive/folders/1CjDM0wmbFf_TCgosQRVXiMgePAKOoU0F?usp=drive_link)]
-
 Put the pth files in the folder "model".
 
 - Test
@@ -25,12 +22,6 @@ python train.py --model=usbnet --data_path="" --eval_data_path="" --cs_ratio=10 
 
 ## USB-Net-CSMRI
 
-- Model
-1. Cratesian
-[[BaiduYun](https://pan.baidu.com/s/1syIucEFo92_1yLD3OdwzHg?pwd=tuqu)]/[[GoogleDrive](https://drive.google.com/drive/folders/1UlWixkmW3YRxObouhy4cQX3UbTjhRnkp?usp=sharing)]
-
-2. Radial
-[[BaiduYun](https://pan.baidu.com/s/1tk7xiu5-WTMj-cT94cw2Vg?pwd=nbhr)]/[[GoogleDrive](https://drive.google.com/drive/folders/1FUGob2nl-jstB34NyJa1i7KISBrMUhBC?usp=sharing)]
 
 Put the pth files in the folder "model-Cartesian" or "model-Radial".
 
@@ -63,3 +54,15 @@ Put the pth files in the folder "Real".
 ```
 python test_real.py --data_path="path of data" --mask_path="path of mask"
 ```
+
+## Model
+- Model for ICS:
+[[BaiduYun](https://pan.baidu.com/s/1_EMg1i-pLq87obCEC3EtdQ?pwd=w6mq)] or 
+[[GoogleDrive](https://drive.google.com/drive/folders/1CjDM0wmbFf_TCgosQRVXiMgePAKOoU0F?usp=drive_link)]
+
+- Model for CS-MRI:
+[[BaiduYun](https://pan.baidu.com/s/1hjREB8Qh_yWvAJBDLTTVfQ?pwd=w6mq)] or
+[[GoogleDrive](https://drive.google.com/drive/folders/1UlWixkmW3YRxObouhy4cQX3UbTjhRnkp?usp=sharing)]/[[GoogleDrive](https://drive.google.com/drive/folders/1FUGob2nl-jstB34NyJa1i7KISBrMUhBC?usp=sharing)]
+
+- Model for SCI:
+[[BaiduYun](https://pan.baidu.com/s/1z1d2-GNbxrD0WUFTBwIfsA?pwd=w6mq)]
