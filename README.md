@@ -51,3 +51,15 @@ CUDA_VISIBLE_DEVICES=0,1 python -m torch.distributed.launch --nproc_per_node=2 t
 ```
 python train.py --model=usbnet --data_path="" --eval_data_path="" --cs_ratio=5 --blr=5e-5 --min_lr=1e-6 --epochs=100 --batch_size=1 --warmup_epochs=10 --input_size=256 --mask_type=Radial
 ```
+
+## USB-Net-SCI
+### Simulation
+Put the pth files in the folder "Sim".
+```
+python test.py --data_root="path of data"
+```
+### Real
+Put the pth files in the folder "Real".
+```
+python test_real.py --data_path="path of data" --mask_path="path of mask"
+```
